@@ -4,7 +4,7 @@ A game of avoiding obstacles and collecting rewards while running on an infinite
 
 ## Download
 
-[Click this link to download the latest APK](https://github.com/oootkarsh/infinity-runner/releases/download/v1.0.0/Infinity.Runner.1.0.apk).
+~[Click this link to download the latest APK](https://github.com/oootkarsh/infinity-runner/releases/download/v1.0.0/Infinity.Runner.1.0.apk).~
 
 ## Install
 
